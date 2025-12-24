@@ -134,9 +134,9 @@ initializr:
         versionProperty: spring-modulith.version
         mappings:
           - compatibilityRange: "[3.5.0,4.0.0)"
-            version: 1.4.4
+            version: 1.4.6
           - compatibilityRange: "[4.0.0,4.1.0-M1)"
-            version: 2.0.0
+            version: 2.0.1
       spring-shell:
         groupId: org.springframework.shell
         artifactId: spring-shell-dependencies
@@ -164,9 +164,9 @@ initializr:
         versionProperty: vaadin.version
         mappings:
           - compatibilityRange: "[3.5.0,4.0.0)"
-            version: 24.9.7
+            version: 24.9.8
           - compatibilityRange: "[4.0.0,4.1.0-M1)"
-            version: 25.0.0
+            version: 25.0.2
     platform:
       compatibilityRange: "3.5.0"
   dependencies:
